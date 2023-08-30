@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PaginatorComponent should render current template 1`] = `
+<ng-component>
+  <aui-paginator>
+    <aui-select>
+      <aui-option>
+         20 
+      </aui-option>
+      <aui-option>
+         50 
+      </aui-option>
+      <aui-option>
+         100 
+      </aui-option>
+    </aui-select>
+  </aui-paginator>
+</ng-component>
+`;
